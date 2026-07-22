@@ -1,0 +1,14 @@
+Create these in game.Lighting
+
+ColorCorrection = {
+  Brightness = -0.02
+  Contrast = -0.01
+  Enabled = true
+  Saturation = -0.1
+  TintColor = (255, 240, 202)
+}
+
+PanicBlur = {
+  Enabled = true
+  Size = 0
+}
